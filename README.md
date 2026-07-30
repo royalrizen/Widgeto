@@ -1,44 +1,77 @@
-# ⚠️ Development Discontinued
+# Widgeto
 
-> [!IMPORTANT]
-> **Widgeto is no longer being actively developed.**
->
->  https://support-dev.discord.com/hc/en-us/articles/42261641635351-Game-Stats-Widget-Experiment
->
-> The app still demonstrates most of the backend workflow, including fetching applications from the Discord Developer Portal, retrieving widget data, and publishing widgets (where supported). However, with Discord discontinuing the feature, further development has been halted. If Discord ever restores widget support (or introduces a replacement), feel free to fork this repository and continue development using **Sketchware Pro** or **Android Studio**.
+> *A native Android client for managing Discord Widget configurations.*
+
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square)
+![Language](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Built With](https://img.shields.io/badge/Built%20With-Sketchware%20Pro-6C63FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Archived-red?style=flat-square)
 
 ---
 
-# 📱 Widgeto
+> [!WARNING]
+> **Widgeto has been archived.**
+>
+> Discord officially discontinued the **Game Stats Widget Experiment**, making further development of this project impractical.
+>
+> **Official announcement:**  
+> https://support-dev.discord.com/hc/en-us/articles/42261641635351-Game-Stats-Widget-Experiment
+>
+> Although development has stopped, this repository still demonstrates the original workflow for interacting with Discord's widget system, including fetching applications, retrieving widget configurations, and publishing widgets.
+>
+> If Discord ever restores widget support (or introduces a replacement), feel free to fork this repository and continue development using **Sketchware Pro** or **Android Studio**.
 
-> A native Android client for managing Discord Widget configurations.
+---
 
-Widgeto was built to replace the Discord Developer Portal with a fast, mobile-friendly Android experience. Instead of using a browser, developers could manage Discord applications and widget configurations directly from their phone.
+## 📖 About
+
+Widgeto was built to replace the Discord Developer Portal with a fast, native Android experience.
+
+Instead of managing widgets through a browser, developers could browse their Discord applications, edit widget configurations, and publish changes directly from their phone.
+
+---
 
 ## ✨ Features
 
-- 📂 Fetch Discord applications from the Developer Portal
-- 📝 View and edit widget configurations
-- 🚀 Publish widget configurations directly
-- 📥 Retrieve existing widget data
-- 📱 Native Android interface
-- ⚡ Faster workflow than using the web portal
+| Feature | Status |
+|:-------------------------------|:------:|
+| Fetch Discord applications | ✅ |
+| Retrieve widget configurations | ✅ |
+| Edit widget configurations | ✅ |
+| Publish widget configurations | ✅ |
+| Native Android interface | ✅ |
+| Discord API integration | ✅ |
+| Mobile-first workflow | ✅ |
 
 ---
 
 ## 🛠️ Built With
 
-- Java
-- Sketchware Pro
-- Android WebView
-- Discord APIs
+| Technology | Purpose |
+|------------|---------|
+| Java | Application logic |
+| Sketchware Pro | Development environment |
+| Android WebView | Discord authentication & portal integration |
+| Discord APIs | Application & widget management |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+Although the project is archived, contributions and forks are always welcome.
 
-If Discord ever brings widget support back, this project can serve as a solid foundation for a modern native widget manager.
+If Discord brings widget support back in the future, Widgeto can continue from where development stopped.
 
 ---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<div align="center">
+
+Made with ❤️ for the Discord developer community.
+
+</div>
