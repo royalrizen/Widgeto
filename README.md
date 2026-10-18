@@ -34,7 +34,7 @@ Instead of managing widgets through a browser, developers could browse their Dis
 ## How do I use this project?
 
 You can import this repo in Android Studio and develop it further. Compile the apk and sign it with a key :)
-<br> Alternatively, you can download the Sketchware project file from releases section of this repository, import it into Sketchware app and have fun!
+<br> Alternatively, you can download the Sketchware project file from [releases](https://github.com/royalrizen/Widgeto/releases/tag/v1.0) section of this repository, import it into Sketchware app and have fun!
 
 ## License
 
